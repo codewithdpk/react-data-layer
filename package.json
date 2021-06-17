@@ -1,5 +1,5 @@
 {
-  "name": "react-data-layer",
+  "name": "react-data-layer-api",
   "version": "1.0.0",
   "description": "A data layer for react applications to prohibits unnecessary loading of same data by creating cache of data inside session storage.",
   "main": "index.js",
