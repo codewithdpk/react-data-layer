@@ -5,7 +5,7 @@ A data layer for reacts applications prohibits unnecessary loading of the same d
 ## Usage
 
 ```javascript
-import { checkData,fetchData,updateNewData FLAGS } from 'react-data-layer';
+import { checkData,fetchData,updateNewData, FLAGS } from 'react-data-layer';
 
 const App = () =>{
 
