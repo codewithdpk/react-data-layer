@@ -14,7 +14,7 @@ export const FLAGS = {
 export const checkData = (dataKey) => {
   /* check of the data is exist */
   const data = JSON.parse(sessionStorage.getItem(dataKey));
-  if (data === null || data?.length == 0) {
+  if (data === null || data.length == 0) {
     return FLAGS.DATA_NOT_FOUND;
   } else {
     return FLAGS.DATA_EXIST;
