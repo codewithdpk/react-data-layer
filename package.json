@@ -1,0 +1,25 @@
+{
+  "name": "react-data-layer",
+  "version": "1.0.0",
+  "description": "A data layer for react applications to prohibits unnecessary loading of same data by creating cache of data inside session storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithdpk/react-data-layer.git"
+  },
+  "keywords": [
+    "data",
+    "session",
+    "cache",
+    "react-data-layer"
+  ],
+  "author": "Deepak Suthar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithdpk/react-data-layer/issues"
+  },
+  "homepage": "https://github.com/codewithdpk/react-data-layer#readme"
+}
