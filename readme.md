@@ -2,6 +2,12 @@
 
 A data layer for reacts applications prohibits unnecessary loading of the same data by creating a cache of data inside session storage. 🚀
 
+## Installation
+
+```bash
+npm i react-data-layer-api
+```
+
 ## Usage
 
 ```javascript
